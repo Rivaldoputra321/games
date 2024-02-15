@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="marker_baggg" size="1.000000 0.745514" />
+    <ImageTarget name="marker_botollllllllll" size="1.000000 0.742251" />
+    <ImageTarget name="marker_pisang_busuk" size="1.000000 0.756933" />
+    <ImageTarget name="marker_kulit_buah_kering" size="1.000000 0.756933" />
+  </Tracking>
+</QCARConfig>
